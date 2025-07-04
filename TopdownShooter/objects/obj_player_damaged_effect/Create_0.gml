@@ -1,0 +1,1 @@
+damage_alpha = 0;

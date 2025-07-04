@@ -1,0 +1,1 @@
+_is_full_screen = window_get_fullscreen();
